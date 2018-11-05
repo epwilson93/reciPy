@@ -1,0 +1,74 @@
+/* title{
+    font-family: 'Montserrat', sans-serif;
+} */
+
+#app-title{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 30px;
+    text-decoration-line: underline;
+}
+
+#page-title{
+    padding-bottom: 15px;
+}
+
+.top{
+    text-align: center;
+}
+
+
+.form-whole{
+    width: 25%;
+    padding: 20px;
+}
+
+.form-check{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/* li{
+    text-align: center;
+    width: 100px;
+    height: 100px;
+} */
+
+#1a{
+    background: #086788;
+    width: 25%;
+}
+
+#2a{
+    background: #AFD0BF;
+}
+
+#3a{
+    background: #FFBF59;
+}
+
+#4a{
+    background: #378FBE;
+}
+
+#5a{
+    background: #07A0C3;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron{
+    text-align: center;
+    background-image: url("https://fbcd.co/images/products/61e4f93baa251a8d8c5475e81e1cd394_resize.jpg");
+}
+
+.images{
+    padding-bottom: 50px;
+}
+
+.footer{
+    padding-top: 250px;
+    text-align: center;
+}
